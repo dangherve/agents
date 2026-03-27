@@ -178,3 +178,5 @@ docs/
 
 # Examples for development
 examples/dev/*
+
+!buildTools
