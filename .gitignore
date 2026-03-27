@@ -180,3 +180,5 @@ docs/
 examples/dev/*
 
 !buildTools
+
+!.woodpecker
